@@ -8,9 +8,9 @@
 
 .header_logo {
     object-fit: contain;
-    height: 48px;
+    height: 45px;
 }
 
 .header_icon {
-    padding: 20px;
+    padding: 10px;
 }
